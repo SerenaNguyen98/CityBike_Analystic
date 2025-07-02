@@ -4,5 +4,5 @@ City Bike is a bike rental company and our job is to analyze and provide answers
 #Link gg sheet ( Includes raw data and analysis charts )
 - https://docs.google.com/spreadsheets/d/18yIZ0lUckb2uyUvuKzmyOMpDXXsModwf86nvh_jxaW0/edit?usp=sharing
 
-#Link medium post
--Tutorial 1: An Introduction to Data Analytics: https://medium.com/@ntthuynga1998/tutorial-1-an-introduction-to-data-analytics-fc837c482514
+#Link present 
+- https://www.canva.com/design/DAF-jijXCJM/l8OF98GEyF1CISzZyiUbdg/edit?utm_content=DAF-jijXCJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
